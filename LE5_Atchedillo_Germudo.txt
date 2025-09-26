@@ -4,7 +4,7 @@ int main() {
     int number;
     int sum = 0;
 
-    printf("Enter positive numbers to ADD (zero or negative to STOP)"\n);
+    printf("Enter positive numbers to ADD (zero or negative to STOP)\n");
     printf("\n");
     
     while (1) {
@@ -21,3 +21,4 @@ int main() {
     printf("Total sum is: %d\n", sum);
     return 0;
 }
+
